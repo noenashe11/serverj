@@ -1,0 +1,126 @@
+[00:02:58] [Server thread/INFO]: /127.246.246.188:46241 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[00:03:16] [Server thread/INFO]: /127.246.246.188:44695 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[00:03:36] [Server thread/INFO]: /127.246.246.188:38399 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[00:03:49] [Server thread/INFO]: /127.246.246.188:40041 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[00:04:59] [Server thread/INFO]: jorge777[/127.246.246.188:48315] logged in with entity id 1428 at (25.5, 105.0, -53.5)
+[00:04:59] [Server thread/INFO]: jorge777 joined the game
+[00:05:32] [Server thread/INFO]: noenashe has made the advancement [Stone Age]
+[00:05:40] [Server thread/INFO]: noenashe has made the advancement [Getting an Upgrade]
+[00:06:02] [Server thread/INFO]: noenashe has made the advancement [Monster Hunter]
+[00:12:16] [Server thread/INFO]: jorge777 was doomed to fall by Zombie
+[00:13:31] [Server thread/INFO]: Made noenashe a server operator
+[00:14:04] [Server thread/INFO]: Locating element minecraft:village_plains took 2279 ms
+[00:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[00:14:08] [Server thread/INFO]: [noenashe: Teleported noenashe to -751.500000, 88.000000, -415.500000]
+[00:14:16] [Server thread/WARN]: jorge777 moved too quickly! -8.162575901765564,4.0,-4.32073921508375
+[00:14:19] [Server thread/INFO]: noenashe suffocated in a wall
+[00:14:25] [Server thread/INFO]: [noenashe: Teleported noenashe to -751.500000, 103.000000, -415.500000]
+[00:14:40] [Server thread/INFO]: noenashe has made the advancement [Sweet Dreams]
+[00:14:43] [Server thread/INFO]: jorge777 fell from a high place
+[00:15:15] [Server thread/INFO]: [Not Secure] <noenashe> -720 90 -420
+[00:15:43] [Server thread/INFO]: jorge777 lost connection: Disconnected
+[00:15:43] [Server thread/INFO]: jorge777 left the game
+[00:15:47] [Server thread/INFO]: noenashe has made the advancement [Acquire Hardware]
+[00:16:08] [Server thread/INFO]: jorge777[/127.246.246.188:45147] logged in with entity id 6514 at (9.775612033472006, 105.0, -43.543345491055355)
+[00:16:08] [Server thread/INFO]: jorge777 joined the game
+[00:16:24] [Server thread/INFO]: [Not Secure] <noenashe> -720 90 -420
+[00:17:00] [Server thread/INFO]: Villager dcx['Villager'/5511, l='ServerLevel[world]', x=-738.30, y=78.85, z=-395.13] died, message: 'Villager was slain by Zombie'
+[00:17:54] [Server thread/INFO]: [noenashe: Set own game mode to Creative Mode]
+[00:18:00] [Server thread/INFO]: Villager dcx['Villager'/5513, l='ServerLevel[world]', x=-747.30, y=73.42, z=-437.14] died, message: 'Villager was slain by Zombie'
+[00:18:01] [Server thread/INFO]: noenashe has made the advancement [Ice Bucket Challenge]
+[00:18:17] [Server thread/INFO]: [noenashe: Set own game mode to Survival Mode]
+[00:18:31] [Server thread/INFO]: noenashe has made the advancement [Isn't It Iron Pick]
+[00:18:39] [Server thread/INFO]: noenashe has made the advancement [Suit Up]
+[00:18:58] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[00:19:23] [Server thread/INFO]: jorge777 has made the advancement [Acquire Hardware]
+[00:19:30] [Server thread/INFO]: jorge777 has made the advancement [Suit Up]
+[00:20:17] [Server thread/INFO]: Villager dcx['Villager'/5510, l='ServerLevel[world]', x=-742.23, y=75.25, z=-434.72] died, message: 'Villager was slain by Zombie'
+[00:21:32] [Server thread/INFO]: jorge777 has made the advancement [Getting an Upgrade]
+[00:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[00:22:36] [Server thread/INFO]: noenashe has made the advancement [We Need to Go Deeper]
+[00:22:39] [Server thread/INFO]: jorge777 has made the advancement [We Need to Go Deeper]
+[00:23:33] [Server thread/INFO]: Locating element minecraft:fortress took 2 ms
+[00:25:37] [Server thread/INFO]: noenashe has made the advancement [Not Today, Thank You]
+[00:25:38] [Server thread/INFO]: jorge777 has made the advancement [Monster Hunter]
+[00:30:39] [Server thread/INFO]: jorge777 burned to death
+[00:30:54] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[00:34:09] [Server thread/INFO]: noenashe has made the advancement [A Terrible Fortress]
+[00:34:13] [Server thread/INFO]: jorge777 has made the advancement [A Terrible Fortress]
+[00:35:13] [Server thread/INFO]: jorge777 has made the advancement [Into Fire]
+[00:35:45] [Server thread/INFO]: noenashe has made the advancement [Into Fire]
+[00:36:23] [Server thread/INFO]: [noenashe: Gave 12 [Obsidian] to noenashe]
+[00:36:30] [Server thread/INFO]: [noenashe: Gave 1 [Flint] to noenashe]
+[00:37:00] [Server thread/INFO]: [noenashe: The difficulty has been set to Hard]
+[00:37:09] [Server thread/INFO]: jorge777 was slain by Blaze
+[00:37:34] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[00:38:31] [Server thread/INFO]: noenashe was slain by Blaze
+[00:38:33] [Server thread/INFO]: jorge777 has made the advancement [Ice Bucket Challenge]
+[00:38:35] [Server thread/INFO]: [noenashe: Teleported noenashe to jorge777]
+[00:39:06] [Server thread/INFO]: noenashe walked into fire while fighting Blaze
+[00:39:09] [Server thread/INFO]: [noenashe: Teleported noenashe to jorge777]
+[00:39:10] [Server thread/INFO]: jorge777 has made the advancement [Stone Age]
+[00:39:47] [Server thread/INFO]: jorge777 was fireballed by Blaze
+[00:39:58] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[00:41:05] [Server thread/INFO]: jorge777 was slain by Zombified Piglin
+[00:41:13] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=22, y=85, z=-42}
+[00:41:13] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=22, y=85, z=-42}
+[00:41:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=22, y=85, z=-42}
+[00:41:18] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[00:41:28] [Server thread/INFO]: noenashe was slain by Zombified Piglin
+[00:41:32] [Server thread/INFO]: [noenashe: Teleported noenashe to jorge777]
+[00:42:44] [Server thread/INFO]: jorge777 has made the advancement [Isn't It Iron Pick]
+[00:43:33] [Server thread/INFO]: [noenashe: Gave 1 [Flint] to noenashe]
+[00:43:51] [Server thread/INFO]: [noenashe: Gave 16 [Ender Pearl] to noenashe]
+[00:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8274ms or 165 ticks behind
+[00:46:26] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[00:56:33] [Server thread/INFO]: jorge777 fell from a high place
+[00:56:41] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[00:58:42] [Server thread/INFO]: jorge777 was blown up by Creeper
+[00:58:54] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[00:59:00] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[01:04:03] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[01:05:30] [Server thread/INFO]: noenashe has made the advancement [Eye Spy]
+[01:05:34] [Server thread/INFO]: jorge777 has made the advancement [Eye Spy]
+[01:06:13] [Server thread/INFO]: jorge777 was slain by Zombie
+[01:06:19] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[01:06:41] [Server thread/INFO]: jorge777 was slain by Zombie
+[01:06:43] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[01:08:21] [Server thread/INFO]: jorge777 was slain by Zombie
+[01:08:24] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[01:08:33] [Server thread/INFO]: [noenashe: Teleported jorge777 to noenashe]
+[01:09:24] [Server thread/INFO]: [noenashe: Set own game mode to Spectator Mode]
+[01:09:29] [Server thread/INFO]: [noenashe: Set own game mode to Survival Mode]
+[01:09:49] [Server thread/INFO]: [noenashe: Gave 2 [Blue Bed] to noenashe]
+[01:11:02] [Server thread/INFO]: jorge777 has made the advancement [Sweet Dreams]
+[01:13:37] [Server thread/INFO]: noenashe has made the advancement [The End?]
+[01:13:40] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[01:13:40] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[01:13:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
+[01:13:40] [Server thread/INFO]: jorge777 has made the advancement [The End?]
+[01:15:27] [Server thread/INFO]: jorge777 was slain by Ender Dragon
+[01:16:18] [Server thread/INFO]: noenashe was blown up by noenashe
+[01:16:59] [Server thread/INFO]: jorge777 was doomed to fall by Ender Dragon
+[01:17:19] [Server thread/INFO]: noenashe was killed by Ender Dragon using magic
+[01:18:17] [Server thread/INFO]: jorge777 was slain by Enderman
+[01:19:30] [Server thread/INFO]: jorge777 was slain by Ender Dragon
+[01:20:44] [Server thread/INFO]: noenashe was blown up by noenashe
+[01:20:53] [Server thread/INFO]: jorge777 was doomed to fall by Ender Dragon
+[01:22:27] [Server thread/INFO]: jorge777 was slain by Ender Dragon
+[01:23:39] [Server thread/INFO]: noenashe was slain by Enderman
+[01:25:04] [Server thread/INFO]: noenashe was slain by Enderman
+[01:26:12] [Server thread/INFO]: jorge777 was slain by Ender Dragon
+[01:26:40] [Server thread/INFO]: noenashe was slain by Enderman
+[01:26:46] [Server thread/INFO]: jorge777 was slain by Ender Dragon
+[01:27:04] [Server thread/INFO]: noenashe was doomed to fall by Ender Dragon
+[01:29:00] [Server thread/INFO]: jorge777 was killed by Ender Dragon using magic
+[01:29:45] [Server thread/INFO]: jorge777 was slain by Ender Dragon
+[01:32:08] [Server thread/INFO]: jorge777 was doomed to fall by Ender Dragon
+[01:32:14] [Server thread/INFO]: noenashe was slain by Enderman
+[01:34:01] [Server thread/INFO]: jorge777 hit the ground too hard
+[01:35:47] [Server thread/INFO]: jorge777 was slain by Enderman
+[01:36:20] [Server thread/INFO]: jorge777 has made the advancement [Free the End]
+[01:37:07] [Server thread/INFO]: noenashe lost connection: Disconnected
+[01:37:07] [Server thread/INFO]: noenashe left the game
+[01:39:12] [Server thread/INFO]: jorge777 lost connection: Disconnected
+[01:39:12] [Server thread/INFO]: jorge777 left the game
+[01:40:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
